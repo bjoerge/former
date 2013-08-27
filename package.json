@@ -1,0 +1,19 @@
+{
+  "name": "former",
+  "version": "0.0.1",
+  "description": "Serialize/deserialize HTML forms to/from json",
+  "private": true,
+  "main": "former.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bjoerge/former.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bjørge Næss",
+  "license": "MIT",
+  "dependencies": {
+    "dotty": "0.0.2"
+  }
+}
